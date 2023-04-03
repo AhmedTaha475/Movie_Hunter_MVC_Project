@@ -1,6 +1,6 @@
-# Movie_Hunter_MVC_Project
-#MVC_Final Project
-Project Parts
+# Movie_Hunter
+
+# **Project Parts**
 This project has been divided into five parts, each with its own set of tasks and responsibilities.
 
 1. Project Structure
